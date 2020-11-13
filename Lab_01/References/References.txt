@@ -1,0 +1,7 @@
+Link dataset: https://www.kaggle.com/ruchi798/drug-overdose-deaths
+
+Source_1: https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14#:~:text=EDA%20in%20Python%20uses%20data,which%20can%20have%20repercussions%20later
+
+Source_2: https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
+
+Source_3: https://chrisalbon.com/ 
